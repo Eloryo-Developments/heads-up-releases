@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Heads Up</title>
+    <item>
+      <title>Heads Up 1.9.4</title>
+      <pubDate>Tue, 13 Oct 2026 08:46:44 +0000</pubDate>
+      <sparkle:shortVersionString>1.9.4</sparkle:shortVersionString>
+      <sparkle:version>86</sparkle:version>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Eloryo-Developments/heads-up-releases/releases/download/v1.9.4/HeadsUp-1.9.4.zip" sparkle:edSignature="8JGQwslEvl10QqBUvtjCBc8aWulwLDxnE8DjNbyU94Rh2UeT8ysSvsmrUTNWOyiEvIrg+jXhSx50Qg0pZHYsCA==" length="4773432" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
