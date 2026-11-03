@@ -3,12 +3,12 @@
   <channel>
     <title>Heads Up</title>
     <item>
-      <title>Heads Up 1.9.6</title>
-      <pubDate>Tue, 13 Oct 2026 09:42:23 +0000</pubDate>
-      <sparkle:shortVersionString>1.9.6</sparkle:shortVersionString>
-      <sparkle:version>91</sparkle:version>
+      <title>Heads Up 1.9.7</title>
+      <pubDate>Tue, 03 Nov 2026 14:57:43 +0000</pubDate>
+      <sparkle:shortVersionString>1.9.7</sparkle:shortVersionString>
+      <sparkle:version>93</sparkle:version>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/Eloryo-Developments/heads-up-releases/releases/download/v1.9.6/HeadsUp-1.9.6.zip" sparkle:edSignature="TIGCi5JgwXbjcqgrQ6vLJlKSxkj2kCIieD2pB7krbh61tzouRSbgzZhJt5UYqrbkSCsLj3oYdp06uNwGa1SuDQ==" length="4769669" type="application/octet-stream"/>
+      <enclosure url="https://github.com/Eloryo-Developments/heads-up-releases/releases/download/v1.9.7/HeadsUp-1.9.7.zip" sparkle:edSignature="8etDfvyDfjyy9kuPJ86/PuX/zh1Fhiti2VylSFq+8AcI8uH+pkqIUoF0Ke5bVh8z/3rvWUHN09sn5VZen9w4Ag==" length="4799012" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
