@@ -35,6 +35,12 @@ installs them when it relaunches. Updates keep all your settings. If
 your access to this repository ends, updates stop; the installed app
 keeps working.
 
+## Moving to a new Mac
+
+Migration Assistant brings Heads Up across with everything. Otherwise, on
+the old Mac use Settings > About > **Back up…**, and on the new Mac
+choose **Restore from backup…** in the Setup Guide or in Settings > About.
+
 ## Licences
 
 See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
